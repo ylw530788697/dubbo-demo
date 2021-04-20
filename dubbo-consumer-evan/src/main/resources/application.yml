@@ -1,6 +1,6 @@
 
 server:
-  port: 9001
+  port: 9004
 dubbo:
   application:
     # 服务名称，保持唯一
